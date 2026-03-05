@@ -1,0 +1,5 @@
+.env
+chroma_db/
+bot_memory.json
+__pycache__/
+.DS_Store
