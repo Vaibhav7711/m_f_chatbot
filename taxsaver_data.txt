@@ -1,0 +1,331 @@
+SECTION: SCHEME_OVERVIEW
+SCHEME: Parag Parikh ELSS Tax Saver Fund (PPTSF)
+FACT_SHEET_MONTH: January 2026
+
+SCHEME_TAGLINE:
+An open-ended equity linked saving scheme with a statutory lock-in of 3 years and tax benefit.
+
+SCHEME_POSITIONING:
+An India-centric scheme suitable for long-term capital appreciation.
+[END]
+
+
+SECTION: INVESTMENT_OBJECTIVE
+SCHEME: Parag Parikh ELSS Tax Saver Fund (PPTSF)
+
+OBJECTIVE:
+The investment objective of the Scheme is to generate long-term capital appreciation through a diversified portfolio of equity and equity related instruments.
+
+INVESTMENT_POLICY:
+80% of total assets shall be invested in accordance with the Equity Linked Saving Scheme, 2005 notified by the Ministry of Finance.
+
+DISCLAIMER:
+However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.
+
+SCHEME_TYPE:
+An open-ended equity linked savings scheme with a statutory lock-in of 3 years and tax benefit.
+
+DATE_OF_ALLOTMENT: July 24, 2019
+[END]
+
+
+SECTION: FUND_MANAGERS
+SCHEME: Parag Parikh ELSS Tax Saver Fund (PPTSF)
+
+FUND_MANAGER:
+NAME: Rajeev Thakkar
+DESIGNATION: Chief Investment Officer – Equity and Director
+TENURE: Since Inception
+
+FUND_MANAGER:
+NAME: Raunak Onkar
+DESIGNATION: Fund Manager & Research Head
+TENURE: Since Inception
+
+FUND_MANAGER:
+NAME: Raj Mehta
+DESIGNATION: Executive Vice President & Fund Manager – Equity
+TENURE: Since September 1, 2025
+
+FUND_MANAGER:
+NAME: Rukun Tarcahandani
+DESIGNATION: Executive Vice President & Fund Manager – Equity
+TENURE: Since May 16, 2022
+
+FUND_MANAGER:
+NAME: Tejas Soman
+DESIGNATION: Chief Investment Officer – Debt
+TENURE: Since September 1, 2025
+
+FUND_MANAGER:
+NAME: Aishwarya Dhar
+DESIGNATION: Senior Manager & Fund Manager – Debt
+TENURE: Since September 1, 2025
+[END]
+
+
+SECTION: AUM_DETAILS
+SCHEME: Parag Parikh ELSS Tax Saver Fund (PPTSF)
+
+AUM_AS_ON_JAN_31_2026: ₹ 5,768.08 Crores
+AVERAGE_MONTH_AUM: ₹ 5,825.43 Crores
+[END]
+
+
+SECTION: NAV_DETAILS
+SCHEME: Parag Parikh ELSS Tax Saver Fund (PPTSF)
+NAV_DATE: January 31, 2026
+
+REGULAR_PLAN_GROWTH: 30.8762
+DIRECT_PLAN_GROWTH: 33.3777
+[END]
+
+
+SECTION: EXPENSE_RATIO
+SCHEME: Parag Parikh ELSS Tax Saver Fund (PPTSF)
+
+REGULAR_PLAN_EXPENSE_RATIO: 1.72%
+DIRECT_PLAN_EXPENSE_RATIO: 0.62%
+
+NOTE:
+Including additional expenses and GST on management fees. Total Expense Ratio is as on the last business day of the month.
+[END]
+
+
+SECTION: BENCHMARK_INDICES
+SCHEME: Parag Parikh ELSS Tax Saver Fund (PPTSF)
+
+PRIMARY_BENCHMARK: NIFTY 500 (TRI)
+ADDITIONAL_BENCHMARK: NIFTY 50 (TRI)
+[END]
+
+
+SECTION: MINIMUM_INVESTMENT
+SCHEME: Parag Parikh ELSS Tax Saver Fund (PPTSF)
+
+NEW_PURCHASE_MINIMUM: ₹ 500
+ADDITIONAL_PURCHASE_MINIMUM: ₹ 500
+SIP_MONTHLY: ₹ 1,000
+SIP_QUARTERLY: ₹ 3,000
+[END]
+
+
+SECTION: LOAD_STRUCTURE
+SCHEME: Parag Parikh ELSS Tax Saver Fund (PPTSF)
+
+ENTRY_LOAD: Not Applicable
+EXIT_LOAD: NIL
+[END]
+
+
+SECTION: QUANTITATIVE_INDICATORS
+SCHEME: Parag Parikh ELSS Tax Saver Fund (PPTSF)
+
+BETA: 0.68
+STANDARD_DEVIATION: 9.45%
+SHARPE_RATIO: 1.01
+PORTFOLIO_TURNOVER: 15.97%
+
+NOTE:
+Figures are annualised.
+Risk free rate assumed to be 5.53% (FBIL Overnight MIBOR as on Jan 31, 2026).
+[END]
+
+
+SECTION: INDUSTRY_ALLOCATION
+SCHEME: Parag Parikh ELSS Tax Saver Fund (PPTSF)
+
+BANKS: 20.38%
+FINANCE: 12.11%
+IT_SOFTWARE: 11.42%
+DEBT_AND_MONEY_MARKET_INSTRUMENTS: 10.69%
+AUTOMOBILES: 7.74%
+CONSUMABLE_FUELS: 6.27%
+POWER: 6.07%
+DIVERSIFIED_FMCG: 5.04%
+PHARMACEUTICALS_AND_BIOTECHNOLOGY: 3.76%
+TELECOM_SERVICES: 3.66%
+COMMERCIAL_SERVICES_AND_SUPPLIES: 3.31%
+AGRICULTURAL_PRODUCTS: 2.36%
+CASH_AND_CASH_EQUIVALENT: 2.30%
+FOOD_PRODUCTS: 1.41%
+CAPITAL_MARKETS: 1.29%
+AUTO_COMPONENTS: 1.01%
+CIGARETTES_AND_TOBACCO_PRODUCTS: 0.39%
+HEALTHCARE_SERVICES: 0.32%
+TRANSPORT_SERVICES: 0.28%
+INDUSTRIAL_PRODUCTS: 0.19%
+[END]
+
+
+SECTION: PERFORMANCE_LUMPSUM
+SCHEME: Parag Parikh ELSS Tax Saver Fund (PPTSF)
+
+SINCE_INCEPTION_CAGR:
+PPTSF_REGULAR: 18.86%
+PPTSF_DIRECT: 20.28%
+NIFTY_500_TRI: 16.39%
+NIFTY_50_TRI: 14.51%
+
+VALUE_OF_INVESTMENT_RS10000:
+PPTSF_REGULAR: ₹30,876
+PPTSF_DIRECT: ₹33,378
+NIFTY_500_TRI: ₹26,922
+NIFTY_50_TRI: ₹24,216
+
+LAST_1_YEAR_RETURN:
+PPTSF_REGULAR: 3.07%
+PPTSF_DIRECT: 4.21%
+NIFTY_500_TRI: 8.00%
+NIFTY_50_TRI: 9.00%
+
+LAST_3_YEAR_RETURN:
+PPTSF_REGULAR: 15.71%
+PPTSF_DIRECT: 16.99%
+NIFTY_500_TRI: 16.72%
+NIFTY_50_TRI: 14.08%
+
+LAST_5_YEAR_RETURN:
+PPTSF_REGULAR: 17.35%
+PPTSF_DIRECT: 18.76%
+NIFTY_500_TRI: 16.52%
+NIFTY_50_TRI: 14.52%
+
+SOURCE:
+Scheme Performance – Internal
+Benchmark Performance – CRISIL
+[END]
+
+
+SECTION: PERFORMANCE_ROLLING_RETURNS
+SCHEME: Parag Parikh ELSS Tax Saver Fund (PPTSF)
+
+3_YEAR_ROLLING_RETURN:
+
+REGULAR_PLAN:
+AVERAGE: 21.51%
+MAXIMUM: 35.78%
+MINIMUM: 14.07%
+STD_DEVIATION: 3.93%
+
+DIRECT_PLAN:
+AVERAGE: 23.01%
+MAXIMUM: 37.51%
+MINIMUM: 15.42%
+STD_DEVIATION: 4.02%
+
+BENCHMARK_NIFTY_500:
+AVERAGE: 19.09%
+MAXIMUM: 33.50%
+MINIMUM: 10.85%
+STD_DEVIATION: 3.75%
+
+5_YEAR_ROLLING_RETURN:
+
+REGULAR_PLAN:
+AVERAGE: 23.15%
+MAXIMUM: 30.79%
+MINIMUM: 16.46%
+STD_DEVIATION: 2.90%
+
+DIRECT_PLAN:
+AVERAGE: 24.64%
+MAXIMUM: 32.36%
+MINIMUM: 17.85%
+STD_DEVIATION: 2.94%
+
+BENCHMARK_NIFTY_500:
+AVERAGE: 20.88%
+MAXIMUM: 28.87%
+MINIMUM: 14.86%
+STD_DEVIATION: 2.80%
+
+NOTE:
+Returns are calculated since inception with daily rolling frequency.
+[END]
+
+
+SECTION: SIP_PERFORMANCE
+SCHEME: Parag Parikh ELSS Tax Saver Fund (PPTSF)
+
+ASSUMPTION:
+₹10,000 invested on the first day of every month.
+
+SINCE_INCEPTION:
+TOTAL_INVESTED: ₹7,90,000
+REGULAR_PLAN_VALUE: ₹13,89,922
+DIRECT_PLAN_VALUE: ₹14,58,113
+
+LAST_1_YEAR:
+TOTAL_INVESTED: ₹1,20,000
+REGULAR_PLAN_VALUE: ₹1,19,465
+DIRECT_PLAN_VALUE: ₹1,20,182
+
+LAST_3_YEARS:
+TOTAL_INVESTED: ₹3,60,000
+REGULAR_PLAN_VALUE: ₹4,18,036
+DIRECT_PLAN_VALUE: ₹4,25,789
+
+LAST_5_YEARS:
+TOTAL_INVESTED: ₹6,00,000
+REGULAR_PLAN_VALUE: ₹8,39,871
+DIRECT_PLAN_VALUE: ₹8,68,292
+[END]
+
+
+SECTION: GRAPH_DESCRIPTION
+SCHEME: Parag Parikh ELSS Tax Saver Fund (PPTSF)
+
+SINCE_INCEPTION_GRAPH:
+Shows growth of ₹100 invested since July 24, 2019.
+PPTSF Direct Plan demonstrates highest cumulative growth followed by Regular Plan.
+Benchmark indices show comparatively lower growth trajectory.
+
+LAST_1_YEAR_GRAPH:
+Shows performance comparison between scheme and benchmarks from Jan 2025 to Jan 2026.
+Benchmarks slightly outperformed scheme during this period.
+
+SOURCE: Internal sources
+[END]
+
+
+SECTION: INSIDER_HOLDING_DISCLOSURE
+SCHEME: Parag Parikh ELSS Tax Saver Fund (PPTSF)
+
+INSIDER_AUM_HOLDING: ₹ 67.77 Crores
+AS_ON: January 31, 2026
+[END]
+
+
+SECTION: PORTFOLIO_DISCLOSURE_CORE_EQUITY
+SCHEME: Parag Parikh ELSS Tax Saver Fund (PPTSF)
+
+HDFC_BANK_LIMITED | Banks | 7.69%
+BAJAJ_HOLDINGS_AND_INVESTMENT_LIMITED | Finance | 6.60%
+COAL_INDIA_LIMITED | Consumable Fuels | 6.27%
+POWER_GRID_CORPORATION_OF_INDIA_LIMITED | Power | 6.07%
+MAHARASHTRA_SCOOTERS_LIMITED | Finance | 5.51%
+ITC_LIMITED | Diversified FMCG | 5.04%
+ICICI_BANK_LIMITED | Banks | 4.78%
+KOTAK_MAHINDRA_BANK_LIMITED | Banks | 4.11%
+MARUTI_SUZUKI_INDIA_LIMITED | Automobiles | 4.03%
+HCL_TECHNOLOGIES_LIMITED | IT Software | 3.87%
+AXIS_BANK_LIMITED | Banks | 3.80%
+MAHINDRA_AND_MAHINDRA_LIMITED | Automobiles | 3.71%
+INFOSYS_LIMITED | IT Software | 3.68%
+BHARTI_AIRTEL_LIMITED | Telecom Services | 3.58%
+CMS_INFO_SYSTEM_LIMITED | Commercial Services | 3.28%
+[END]
+
+
+SECTION: DEBT_AND_MONEY_MARKET_INSTRUMENTS
+SCHEME: Parag Parikh ELSS Tax Saver Fund (PPTSF)
+
+CERTIFICATE_OF_DEPOSIT_TOTAL: 7.50%
+COMMERCIAL_PAPER_TOTAL: 2.95%
+TREASURY_BILL_TOTAL: 0.24%
+REVERSE_REPO_AND_RECEIVABLES: 2.30%
+
+TOTAL_DEBT_AND_MONEY_MARKET: 12.99%
+NET_ASSETS: 100.00%
+[END]

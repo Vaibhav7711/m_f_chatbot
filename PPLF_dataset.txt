@@ -1,0 +1,811 @@
+====================================================================
+SCHEME: Parag Parikh Liquid Fund SCHEME CODE: PPFA/O/D/LIF/18/04/0002
+CATEGORY: Liquid Fund TYPE: Open-ended RISK PROFILE: Relatively Low
+Interest Rate Risk & Relatively Low Credit Risk REPORT DATE: 2026-01-31
+LAYER: CORE_INTELLIGENCE
+====================================================================
+[END]
+
+====================================================================
+SECTION: Investment Objective
+==================================================================== The
+primary investment objective is to deliver reasonable market-related
+returns with lower risk and high liquidity through investments in money
+market and debt instruments. There is no assurance that the investment
+objective will be achieved and the scheme does not guarantee any
+returns. [END]
+
+====================================================================
+SECTION: Benchmark
+====================================================================
+Primary Benchmark: CRISIL Liquid Debt A-I Index (AMFI Tier I Benchmark)
+Additional Benchmark: CRISIL 1 Year T-Bill Index [END]
+
+====================================================================
+SECTION: Fund Managers
+====================================================================
+Mr. Tejas Soman – Chief Investment Officer – Debt (Since September 1,
+2025) Ms. Mansi Kariya – Associate Vice President & Fund Manager – Debt
+(Since December 22, 2023) Ms. Aishwarya Dhar – Senior Manager & Fund
+Manager – Debt (Since September 1, 2025) [END]
+
+====================================================================
+SECTION: Assets Under Management
+==================================================================== AUM
+(as on January 31, 2026): ₹ 4,067.66 Crores Average Monthly AUM: ₹
+4,342.39 Crores [END]
+
+====================================================================
+SECTION: Expense Ratio
+====================================================================
+Direct Plan: 0.11% Regular Plan: 0.21% [END]
+
+====================================================================
+SECTION: Risk Classification
+====================================================================
+Potential Risk Class (PRC): A-I Meaning: Relatively Low Interest Rate
+Risk and Relatively Low Credit Risk
+
+Scheme Riskometer: Low to Moderate Risk Benchmark Riskometer: Low to
+Moderate Risk [END]
+
+====================================================================
+SECTION: Quantitative Indicators
+====================================================================
+Average Maturity: 42.01 days Modified Duration: 0.1060 years Macaulay
+Duration: 0.1125 years Yield to Maturity: 6.50% Credit Risk Value (CRV):
+12.21 [END]
+
+====================================================================
+SECTION: Asset Allocation – By Asset Class
+====================================================================
+Certificate of Deposit: 62.80% Commercial Paper: 14.68% Treasury Bills:
+9.12% G-Sec & SDL: 5.28% Non-Convertible Debentures: 1.23% Corporate
+Debt Market Development Fund (CDMDF) – Class A2 Units: 0.33% TREPS / Net
+Receivables / Payables / Net Current Assets: 6.56% [END]
+
+====================================================================
+SECTION: Asset Allocation – By Rating
+==================================================================== A1+
+/ AAA: 78.71% Sovereign: 14.40% TREPS / Net Receivables / Payables / Net
+Current Assets: 6.56% CDMDF A2 Units: 0.33% [END]
+
+====================================================================
+SECTION: Load Structure
+====================================================================
+Entry Load: Not Applicable
+
+Exit Load (% of Redemption Proceeds): Day 1: 0.0070% Day 2: 0.0065% Day
+3: 0.0060% Day 4: 0.0055% Day 5: 0.0050% Day 6: 0.0045% Day 7 Onwards:
+0.0000%
+
+Any exit load charged (net of GST, if any) shall be credited back to the
+Scheme. [END]
+
+====================================================================
+SECTION: Minimum Investment
+==================================================================== New
+Purchase: ₹ 5,000 and in multiples of ₹1 thereafter Additional Purchase:
+₹ 1,000 and in multiples of ₹1 thereafter
+
+Systematic Investment Plan (SIP): Monthly SIP: ₹ 1,000 Quarterly SIP: ₹
+3,000 [END]
+
+====================================================================
+SECTION: NAV (As on January 31, 2026)
+====================================================================
+Direct Plan – Growth: 1507.9931 Regular Plan – Growth: 1496.2665
+
+Direct Plan – Daily IDCW Reinvestment: 1000.5405 Regular Plan – Daily
+IDCW Reinvestment: 1000.5404
+
+Direct Plan – Weekly IDCW Reinvestment: 1001.5831 Regular Plan – Weekly
+IDCW Reinvestment: 1001.5713
+
+Direct Plan – Monthly IDCW: 1003.5837 Regular Plan – Monthly IDCW:
+1003.5725 [END]
+
+====================================================================
+SECTION: Performance (Annualised Returns)
+====================================================================
+Since Inception (11 May 2018): Direct Plan: 5.4567% Regular Plan:
+5.3503% Benchmark 1: 5.8369% Benchmark 2: 5.9988%
+
+Last 1 Year: Direct Plan: 6.2066% Regular Plan: 6.1007% Benchmark 1:
+6.2575% Benchmark 2: 5.7459%
+
+Last 3 Years: Direct Plan: 6.6666% Regular Plan: 6.5607% Benchmark 1:
+6.8921% Benchmark 2: 6.7195%
+
+Last 5 Years: Direct Plan: 5.6197% Regular Plan: 5.5149% Benchmark 1:
+5.8862% Benchmark 2: 5.6411% [END]
+
+SECTION: FLEXI_CAP_OVERVIEW
+SCHEME: Parag Parikh Flexi Cap Fund (PPFCF)
+SCHEME_CATEGORY: Open Ended Equity Oriented Scheme
+
+This section describes Parag Parikh Flexi Cap Fund.
+
+Parag Parikh Flexi Cap Fund invests minimum 65% in Indian equities and up to 35% in overseas equity securities and domestic debt / money market securities.
+
+Investment approach focuses on:
+- Quality of management
+- Business quality (return on capital, entry barriers, capital intensity, use of debt, growth prospects)
+- Company valuation
+
+Temporary investments may include:
+- Equity arbitrage
+- Special situation arbitrage
+- Debt / money market instruments
+
+Cash and arbitrage exposure as per outlook: 21.34%
+[END]
+
+
+SECTION: MARGIN_TRADING_FACILITY_INFORMATION
+This section explains Margin Trading Facility (MTF).
+
+MTF allows investors to buy shares by paying partial transaction value.
+Broker funds remaining amount.
+Interest charged typically ranges between 9%–16%.
+[END]
+
+
+SECTION: LIQUID_FUND_RISKOMETER
+SCHEME: Parag Parikh Liquid Fund
+SCHEME_TYPE: Open-ended Liquid Scheme
+
+RISK_PROFILE: Relatively Low Interest Rate Risk and Relatively Low Credit Risk
+SCHEME_RISKOMETER_LEVEL: Low to Moderate
+BENCHMARK_RISKOMETER_LEVEL: Low to Moderate
+BENCHMARK_NAME: CRISIL Liquid Debt A-I Index
+RISKOMETER_DATE: January 31, 2026
+
+PRC_CLASSIFICATION: A-I
+PRC_DESCRIPTION: Relatively Low Interest Rate Risk and Relatively Low Credit Risk
+[END]
+
+
+SECTION: LIQUID_FUND_SCHEME_DETAILS
+SCHEME_NAME: Parag Parikh Liquid Fund (PPLF)
+SCHEME_TYPE: Open-ended Liquid Scheme
+DATE_OF_ALLOTMENT: May 11, 2018
+
+INVESTMENT_OBJECTIVE:
+To deliver reasonable market related returns with lower risk and high liquidity through investments in money market and debt instruments.
+
+FUND_MANAGERS:
+- Tejas Soman (Since September 1, 2025)
+- Mansi Kariya (Since December 22, 2023)
+- Aishwarya Dhar (Since September 1, 2025)
+
+AUM_CURRENT_CRORES: 4067.66
+AUM_MONTHLY_AVERAGE_CRORES: 4342.39
+
+PRIMARY_BENCHMARK: CRISIL Liquid Debt A-I Index
+ADDITIONAL_BENCHMARK: CRISIL 1 Year T-Bill Index
+
+MINIMUM_LUMPSUM_INVESTMENT: 5000
+MINIMUM_ADDITIONAL_INVESTMENT: 1000
+MINIMUM_SIP_MONTHLY: 1000
+MINIMUM_SIP_QUARTERLY: 3000
+[END]
+
+
+SECTION: EXPENSE_RATIO_DETAILS
+This section contains expense ratio details of the scheme.
+
+REGULAR_PLAN_EXPENSE_RATIO_PERCENT: 0.21%
+DIRECT_PLAN_EXPENSE_RATIO_PERCENT: 0.11%
+[END]
+
+
+SECTION: QUANTITATIVE_RISK_METRICS
+AVERAGE_MATURITY_DAYS: 42.01
+MODIFIED_DURATION_YEARS: 0.1060
+MACAULAY_DURATION_YEARS: 0.1125
+PORTFOLIO_YTM_PERCENT: 6.50%
+CREDIT_RISK_VALUE: 12.21
+[END]
+
+
+SECTION: EXIT_LOAD_DETAILS
+This section contains exit load details of the scheme.
+
+ENTRY_LOAD: Not Applicable
+
+EXIT_LOAD_SLAB:
+DAY_1: 0.0070%
+DAY_2: 0.0065%
+DAY_3: 0.0060%
+DAY_4: 0.0055%
+DAY_5: 0.0050%
+DAY_6: 0.0045%
+DAY_7_ONWARDS: 0.0000%
+
+Note: Exit load charged (net of GST) is credited back to the scheme.
+[END]
+
+
+SECTION: NAV_INFORMATION
+NAV_DATE: January 31, 2026
+
+GROWTH_PLAN_NAV:
+DIRECT: 1507.9931
+REGULAR: 1496.2665
+
+DAILY_IDCW_NAV:
+DIRECT: 1000.5405
+REGULAR: 1000.5404
+
+WEEKLY_IDCW_NAV:
+DIRECT: 1001.5831
+REGULAR: 1001.5713
+
+MONTHLY_IDCW_NAV:
+DIRECT: 1003.5837
+REGULAR: 1003.5725
+[END]
+
+
+SECTION: INSIDER_HOLDING_INFORMATION
+INSIDER_HOLDING_VALUE_CRORES: 1261.29
+INSIDER_HOLDING_DATE: January 31, 2026
+
+DIRECT_PLAN_GROWTH_UNITS_HELD: 3128.38
+DIRECT_PLAN_GROWTH_AUM_RS: 4718424.45
+[END]
+
+
+SECTION: ASSET_ALLOCATION_BY_ASSET_CLASS
+Certificate of Deposit: 62.80%
+Commercial Paper: 14.68%
+Treasury Bills: 9.12%
+TREPS / Net Receivables / Net Current Assets: 6.56%
+G Sec & SDL: 5.28%
+Non Convertible Debentures: 1.23%
+Corporate Debt Market Development Fund A2: 0.33%
+[END]
+
+
+SECTION: ASSET_ALLOCATION_BY_CREDIT_RATING
+A1+/AAA: 78.71%
+Sovereign: 14.40%
+TREPS / Net Receivables / Net Current Assets: 6.56%
+Corporate Debt Market Development Fund A2: 0.33%
+[END]
+  ---------------------------
+      Portfolio 
+  ---------------------------
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Debt Instruments
+
+INSTRUMENT: 7.7201% LIC Housing Finance Limited (12/02/2026) ISIN:
+INE115A07QB9 QUANTITY: 500.0 MARKET_VALUE_LAKHS: 5000.65 lakhs Portfolio
+Allocation: 0.0123 percent of net assets YTM_DECIMAL: 0.067848
+[END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Punjab National Bank (09/03/2026) ISIN: INE160A16TT2
+QUANTITY: 4000.0 MARKET_VALUE_LAKHS: 19869.28 lakhs ALLOCATION_DECIMAL:
+0.0488 percent of net assets YTM_DECIMAL: 0.066701 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: National Bank For Agriculture and Rural Development
+(13/03/2026) ISIN: INE261F16983 QUANTITY: 4000.0 MARKET_VALUE_LAKHS: 19855.3
+lakhs ALLOCATION_DECIMAL: 0.0488 percent of net assets Yield to
+Maturity: 0.066499 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Axis Bank Limited (18/03/2026) # ISIN: INE238AD6BR9
+QUANTITY: 3000.0 MARKET_VALUE_LAKHS: 14877.12 lakhs ALLOCATION_DECIMAL:
+0.0366 percent of net assets YTM_DECIMAL: 0.066999 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: National Bank For Agriculture and Rural Development
+(25/03/2026) ISIN: INE261F16AA7 QUANTITY: 3000.0 MARKET_VALUE_LAKHS: 14858.91
+lakhs ALLOCATION_DECIMAL: 0.0365 percent of net assets Yield to
+Maturity: 0.066653 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Axis Bank Limited (25/03/2026) ISIN: INE238AD6BT5
+QUANTITY: 3000.0 MARKET_VALUE_LAKHS: 14858.19 lakhs ALLOCATION_DECIMAL:
+0.0365 percent of net assets YTM_DECIMAL: 0.066997 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Union Bank of India (27/03/2026) ISIN: INE692A16KJ4
+QUANTITY: 3000.0 MARKET_VALUE_LAKHS: 14853.62 lakhs ALLOCATION_DECIMAL:
+0.0365 percent of net assets YTM_DECIMAL: 0.066617 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Canara Bank (27/02/2026) ISIN: INE476A16D96 QUANTITY:
+2500.0 MARKET_VALUE_LAKHS: 12443.15 lakhs ALLOCATION_DECIMAL: 0.0306 percent
+of net assets YTM_DECIMAL: 0.064146 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: HDFC Bank Limited (12/03/2026) # ISIN: INE040A16GN6
+QUANTITY: 2500.0 MARKET_VALUE_LAKHS: 12411.68 lakhs ALLOCATION_DECIMAL:
+0.0305 percent of net assets YTM_DECIMAL: 0.066604 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Indian Bank (25/03/2026) ISIN: INE562A16ON3 QUANTITY:
+2500.0 MARKET_VALUE_LAKHS: 12382.75 lakhs ALLOCATION_DECIMAL: 0.0304 percent
+of net assets YTM_DECIMAL: 0.066464 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Bank of Baroda (08/04/2026) ISIN: INE028A16JQ8
+QUANTITY: 2500.0 MARKET_VALUE_LAKHS: 12339.14 lakhs ALLOCATION_DECIMAL:
+0.0303 percent of net assets YTM_DECIMAL: 0.0721 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Small Industries Dev Bank of India (11/03/2026) ISIN:
+INE556F16BD2 QUANTITY: 2000.0 MARKET_VALUE_LAKHS: 9930.88 lakhs Portfolio
+Allocation: 0.0244 percent of net assets YTM_DECIMAL: 0.066854
+[END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Indian Bank (12/03/2026) ISIN: INE562A16OI3 QUANTITY:
+2000.0 MARKET_VALUE_LAKHS: 9929.65 lakhs ALLOCATION_DECIMAL: 0.0244 percent
+of net assets YTM_DECIMAL: 0.066312 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: HDFC Bank Limited (18/03/2026) ISIN: INE040A16IC5
+QUANTITY: 2000.0 MARKET_VALUE_LAKHS: 9918.07 lakhs ALLOCATION_DECIMAL:
+0.0244 percent of net assets YTM_DECIMAL: 0.067 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Punjab National Bank (20/03/2026) ISIN: INE160A16RM1
+QUANTITY: 2000.0 MARKET_VALUE_LAKHS: 9914.84 lakhs ALLOCATION_DECIMAL:
+0.0244 percent of net assets YTM_DECIMAL: 0.066703 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Union Bank of India (25/02/2026) ISIN: INE692A16IV3
+QUANTITY: 1500.0 MARKET_VALUE_LAKHS: 7468.19 lakhs ALLOCATION_DECIMAL:
+0.0184 percent of net assets YTM_DECIMAL: 0.064796 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Small Industries Dev Bank of India (27/02/2026) # ISIN:
+INE556F16BB6 QUANTITY: 1500.0 MARKET_VALUE_LAKHS: 7465.69 lakhs Portfolio
+Allocation: 0.0184 percent of net assets YTM_DECIMAL: 0.064524
+[END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Canara Bank (12/03/2026) # ISIN: INE476A16B23 QUANTITY:
+1500.0 MARKET_VALUE_LAKHS: 7447.09 lakhs ALLOCATION_DECIMAL: 0.0183 percent
+of net assets YTM_DECIMAL: 0.066496 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Bank of Baroda (17/03/2026) ISIN: INE028A16KU8
+QUANTITY: 1500.0 MARKET_VALUE_LAKHS: 7440.54 lakhs ALLOCATION_DECIMAL:
+0.0183 percent of net assets YTM_DECIMAL: 0.066296 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: HDFC Bank Limited (25/02/2026) ISIN: INE040A16GJ4
+QUANTITY: 1000.0 MARKET_VALUE_LAKHS: 4978.65 lakhs ALLOCATION_DECIMAL:
+0.0122 percent of net assets YTM_DECIMAL: 0.065226 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Export Import Bank of India (04/03/2026) ISIN:
+INE514E16CJ9 QUANTITY: 1000.0 MARKET_VALUE_LAKHS: 4971.92 lakhs Portfolio
+Allocation: 0.0122 percent of net assets YTM_DECIMAL: 0.066497
+[END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Canara Bank (06/03/2026) # ISIN: INE476A16A99 QUANTITY:
+1000.0 MARKET_VALUE_LAKHS: 4970.21 lakhs ALLOCATION_DECIMAL: 0.0122 percent
+of net assets YTM_DECIMAL: 0.066296 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Canara Bank (13/03/2026) ISIN: INE476A16B31 QUANTITY:
+1000.0 MARKET_VALUE_LAKHS: 4963.84 lakhs ALLOCATION_DECIMAL: 0.0122 percent
+of net assets YTM_DECIMAL: 0.066487 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Canara Bank (18/03/2026) ISIN: INE476A16B64 QUANTITY:
+1000.0 MARKET_VALUE_LAKHS: 4959.22 lakhs ALLOCATION_DECIMAL: 0.0122 percent
+of net assets YTM_DECIMAL: 0.066701 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: HDFC Bank Limiteds (24/03/2026) # ISIN: INE040A16GS5
+QUANTITY: 1000.0 MARKET_VALUE_LAKHS: 4953.63 lakhs ALLOCATION_DECIMAL:
+0.0122 percent of net assets YTM_DECIMAL: 0.067 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Axis Bank Limited (04/03/2026) # ISIN: INE238AD6AN0
+QUANTITY: 500.0 MARKET_VALUE_LAKHS: 2485.86 lakhs ALLOCATION_DECIMAL: 0.0061
+percent of net assets YTM_DECIMAL: 0.066999 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Axis Bank Limited (05/03/2026) # ISIN: INE238AD6AO8
+QUANTITY: 500.0 MARKET_VALUE_LAKHS: 2485.4 lakhs ALLOCATION_DECIMAL: 0.0061
+percent of net assets YTM_DECIMAL: 0.066996 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Certificate Of Deposit
+
+INSTRUMENT: Punjab National Bank (24/03/2026) ISIN: INE160A16TW6
+QUANTITY: 500.0 MARKET_VALUE_LAKHS: 2476.92 lakhs ALLOCATION_DECIMAL: 0.0061
+percent of net assets YTM_DECIMAL: 0.066702 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Commercial Papers
+
+INSTRUMENT: Kotak Securities Limited (06/02/2026) ISIN:
+INE028E14TL5 QUANTITY: 2000.0 MARKET_VALUE_LAKHS: 9990.44 lakhs Portfolio
+Allocation: 0.0246 percent of net assets YTM_DECIMAL: 0.069855
+[END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Commercial Papers
+
+INSTRUMENT: Small Industries Dev Bank of India (24/02/2026) ISIN:
+INE556F14LS4 QUANTITY: 2000.0 MARKET_VALUE_LAKHS: 9958.99 lakhs Portfolio
+Allocation: 0.0245 percent of net assets YTM_DECIMAL: 0.065349
+[END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Commercial Papers
+
+INSTRUMENT: Power Finance Corporation Limited (15/04/2026) ISIN:
+INE134E14AX6 QUANTITY: 2000.0 MARKET_VALUE_LAKHS: 9856.59 lakhs Portfolio
+Allocation: 0.0242 percent of net assets YTM_DECIMAL: 0.072751
+[END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Commercial Papers
+
+INSTRUMENT: LIC Housing Finance Limited (18/02/2026) ISIN:
+INE115A14FJ1 QUANTITY: 1500.0 MARKET_VALUE_LAKHS: 7477.07 lakhs Portfolio
+Allocation: 0.0184 percent of net assets YTM_DECIMAL: 0.065858
+[END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Commercial Papers
+
+INSTRUMENT: Bajaj Finance Limited (24/02/2026) # ISIN: INE296A14D70
+QUANTITY: 1500.0 MARKET_VALUE_LAKHS: 7466.97 lakhs ALLOCATION_DECIMAL:
+0.0184 percent of net assets YTM_DECIMAL: 0.070197 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Commercial Papers
+
+INSTRUMENT: HDFC Securities Limited (11/02/2026) ISIN: INE700G14QW7
+QUANTITY: 1000.0 MARKET_VALUE_LAKHS: 4990.19 lakhs ALLOCATION_DECIMAL:
+0.0123 percent of net assets YTM_DECIMAL: 0.0718 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Commercial Papers
+
+INSTRUMENT: ICICI Securities Limited (13/03/2026) ISIN:
+INE763G14D78 QUANTITY: 1000.0 MARKET_VALUE_LAKHS: 4961.13 lakhs Portfolio
+Allocation: 0.0122 percent of net assets YTM_DECIMAL: 0.0715 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Commercial Papers
+
+INSTRUMENT: Bajaj Finance Limited (12/02/2026) ISIN: INE296A14D47
+QUANTITY: 500.0 MARKET_VALUE_LAKHS: 2494.82 lakhs ALLOCATION_DECIMAL: 0.0061
+percent of net assets YTM_DECIMAL: 0.068895 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Commercial Papers
+
+INSTRUMENT: LIC Housing Finance Limited (11/03/2026) ISIN:
+INE115A14FK9 QUANTITY: 500.0 MARKET_VALUE_LAKHS: 2482.54 lakhs Portfolio
+Allocation: 0.0061 percent of net assets YTM_DECIMAL: 0.06755
+[END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Treasury Bills
+
+INSTRUMENT: 91 Days Tbill (MD 17/04/2026) ISIN: IN002025X414
+QUANTITY: 30000000.0 MARKET_VALUE_LAKHS: 29668.35 lakhs ALLOCATION_DECIMAL:
+0.0729 percent of net assets YTM_DECIMAL: 0.0544 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Treasury Bills
+
+INSTRUMENT: 91 Days Tbill (MD 27/03/2026) ISIN: IN002025X398
+QUANTITY: 5000000.0 MARKET_VALUE_LAKHS: 4961.38 lakhs ALLOCATION_DECIMAL:
+0.0122 percent of net assets YTM_DECIMAL: 0.052625 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Treasury Bills
+
+INSTRUMENT: 182 Days Tbill (MD 12/02/2026) ISIN: IN002025Y206
+QUANTITY: 2500000.0 MARKET_VALUE_LAKHS: 2496.16 lakhs ALLOCATION_DECIMAL:
+0.0061 percent of net assets YTM_DECIMAL: 0.051 [END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Government Securities
+
+INSTRUMENT: 5.63% Government of India (12/04/2026) ISIN:
+IN0020210012 QUANTITY: 21475500.0 MARKET_VALUE_LAKHS: 21485.83 lakhs Portfolio
+Allocation: 0.0528 percent of net assets YTM_DECIMAL: 0.054434
+[END]
+
+SECTION: PORTFOLIO
+[INSTRUMENT] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+CATEGORY: Cdmdf
+
+INSTRUMENT: Corporate Debt Market Development Fund - Class A2 Units
+ISIN: INF0RQ622028 QUANTITY: 11425.845 MARKET_VALUE_LAKHS: 1325.27 lakhs
+ALLOCATION_DECIMAL: 0.0033 percent of net assets YTM_DECIMAL:
+0.0559 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+Parag Parikh Liquid Fund- Direct Plan Growth PREVIOUS_NAV: 1501.3757
+CURRENT_NAV: 1507.9931 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+Parag Parikh Liquid Fund- Direct Plan- Daily Reinvestment of IDCW*
+PREVIOUS_NAV: 1000.5405 CURRENT_NAV: 1000.5405 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+Parag Parikh Liquid Fund- Direct Plan- Weekly Reinvestment of IDCW*
+PREVIOUS_NAV: 1001.5123 CURRENT_NAV: 1001.5831 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+Parag Parikh Liquid Fund- Direct Plan- Monthly IDCW* PREVIOUS_NAV:
+1003.5131 CURRENT_NAV: 1003.5837 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+Parag Parikh Liquid Fund- Regular Plan Growth PREVIOUS_NAV: 1489.8271
+CURRENT_NAV: 1496.2665 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+Parag Parikh Liquid Fund- Regular Plan- Daily Reinvestment of IDCW*
+PREVIOUS_NAV: 1000.5404 CURRENT_NAV: 1000.5404 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+Parag Parikh Liquid Fund- Regular Plan- Weekly Reinvestment of IDCW*
+PREVIOUS_NAV: 1001.507 CURRENT_NAV: 1001.5713 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+Parag Parikh Liquid Fund- Regular Plan- Monthly IDCW* PREVIOUS_NAV:
+1003.5077 CURRENT_NAV: 1003.5725 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+Record Date PREVIOUS_NAV: None CURRENT_NAV: None [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option: Jan
+2026 PREVIOUS_NAV: 4.4092 CURRENT_NAV: 4.4092 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+Record Date PREVIOUS_NAV: None CURRENT_NAV: None [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option: Jan
+2026 PREVIOUS_NAV: 4.329701 CURRENT_NAV: 4.329701 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+Record Date PREVIOUS_NAV: None CURRENT_NAV: None [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+2026-01-05 00:00:00 PREVIOUS_NAV: 1.291 CURRENT_NAV: 1.291 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+2026-01-12 00:00:00 PREVIOUS_NAV: 0.8583 CURRENT_NAV: 0.8583 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+2026-01-19 00:00:00 PREVIOUS_NAV: 0.9286 CURRENT_NAV: 0.9286 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+2026-01-27 00:00:00 PREVIOUS_NAV: 1.257501 CURRENT_NAV: 1.257501 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+Record Date PREVIOUS_NAV: None CURRENT_NAV: None [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+2026-01-05 00:00:00 Regular Plan- Weekly Reinvestment of IDCW* Previous
+NAV: 1.271801 CURRENT_NAV: 1.271801 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+2026-01-12 00:00:00 Regular Plan- Weekly Reinvestment of IDCW* Previous
+NAV: 0.8391 CURRENT_NAV: 0.8391 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+2026-01-19 00:00:00 Regular Plan- Weekly Reinvestment of IDCW* Previous
+NAV: 0.909 CURRENT_NAV: 0.909 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+2026-01-27 00:00:00 Regular Plan- Weekly Reinvestment of IDCW* Previous
+NAV: 1.2352 CURRENT_NAV: 1.2352 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+Record Date PREVIOUS_NAV: None CURRENT_NAV: None [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option: Jan
+2026 PREVIOUS_NAV: 4.3497 CURRENT_NAV: 4.3497 [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option:
+Record Date PREVIOUS_NAV: None CURRENT_NAV: None [END]
+
+SECTION: NAV
+[NAV] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31 Option: Jan
+2026 PREVIOUS_NAV: 4.27 CURRENT_NAV: 4.27 [END]
+
+SECTION: PERFORMANCE
+[PERFORMANCE] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+Period: Since Inception (11 May, 2018) Scheme Regular Return: 0.053503
+percent Scheme Direct Return: 0.054567 percent Benchmark 1 Return:
+0.058369 percent Benchmark 2 Return: 0.059988 percent [END]
+
+SECTION: PERFORMANCE
+[PERFORMANCE] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+Period: January 24, 2026 to January 31, 2026 (Last 7 days) Scheme
+Regular Return: 0.057937 percent Scheme Direct Return: 0.058935 percent
+Benchmark 1 Return: 0.05765 percent Benchmark 2 Return: 0.035657 percent
+[END]
+
+SECTION: PERFORMANCE
+[PERFORMANCE] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+Period: January 16, 2026 to January 31, 2026 (Last 15 Days) Schemes
+Regular Return: 0.052948 percent Scheme Direct Return: 0.053948 percent
+Benchmark 1 Return: 0.053486 percent Benchmark 2 Return: 0.018008
+percent [END]
+
+SECTION: PERFORMANCE
+[PERFORMANCE] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+Period: December 31, 2025 to January 31, 2026 (Last 1 Month) Scheme
+Regular Return: 0.050891 percent Scheme Direct Return: 0.051895 percent
+Benchmark 1 Return: 0.052043 percent Benchmark 2 Return: 0.015946
+percent [END]
+
+SECTION: PERFORMANCE
+[PERFORMANCE] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+Period: October 31, 2025 to January 31, 2026 (Last 3 Month) Scheme
+Regular Return: 0.055312 percent Scheme Direct Return: 0.056322 percent
+Benchmark 1 Return: 0.055908 percent Benchmark 2 Return: 0.034805
+percent [END]
+
+SECTION: PERFORMANCE
+[PERFORMANCE] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+Period: July 31, 2025 to January 31, 2026 (Last 6 Month) Scheme Regular
+Return: 0.055502 percent Scheme Direct Return: 0.056529 percent
+Benchmark 1 Return: 0.056625 percent Benchmark 2 Return: 0.038605
+percent [END]
+
+SECTION: PERFORMANCE
+[PERFORMANCE] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+Period: January 31, 2025 to January 31, 2026 (Last 1 Year) Scheme
+Regular Return: 0.061007 percent Scheme Direct Return: 0.062066 percent
+Benchmark 1 Return: 0.062575 percent Benchmark 2 Return: 0.057459
+percent [END]
+
+SECTION: PERFORMANCE
+[PERFORMANCE] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+Period: January 31, 2023 to January 31, 2026 (Last 3 Years) Scheme
+Regular Return: 0.065607 percent Scheme Direct Return: 0.066666 percent
+Benchmark 1 Return: 0.068921 percent Benchmark 2 Return: 0.067195
+percent [END]
+
+SECTION: PERFORMANCE
+[PERFORMANCE] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+Period: January 31, 2021 to January 31, 2026 (Last 5 Years) Scheme
+Regular Return: 0.055149 percent Scheme Direct Return: 0.056197 percent
+Benchmark 1 Return: 0.058862 percent Benchmark 2 Return: 0.056411
+percent [END]
+
+SECTION: RISK_METRICS
+[RISK_METRICS] SCHEME: Parag Parikh Liquid Fund REPORT_DATE: 2026-01-31
+Average Maturity: 42.014365 days Modified Duration: 0.106018 years
+Macaulay Duration: 0.112548 years Portfolio YTM_DECIMAL: 0.064955
+[END]

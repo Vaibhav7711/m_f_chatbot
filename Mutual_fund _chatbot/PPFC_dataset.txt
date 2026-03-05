@@ -1,0 +1,397 @@
+SECTION: SCHEME_OVERVIEW
+SCHEME: Parag Parikh Flexi Cap Fund (PPFCF)
+FORMERLY_KNOWN_AS: Parag Parikh Long Term Equity Fund
+FACT_SHEET_MONTH: January 2026
+
+SCHEME_TAGLINE:
+An open-ended dynamic equity scheme investing across large cap, mid cap and small cap stocks.
+
+IMPORTANT_NOTE:
+This scheme is suitable for investors who can remain invested for a minimum period of 5 years.
+[END]
+
+
+SECTION: INVESTMENT_OBJECTIVE
+SCHEME: Parag Parikh Flexi Cap Fund (PPFCF)
+
+OBJECTIVE:
+To seek to generate long-term capital growth from an actively managed portfolio primarily of equity and equity related securities.
+
+INVESTMENT_STRATEGY:
+The scheme shall invest in Indian equities, foreign equities and related instruments and debt securities.
+
+DISCLAIMER:
+There is no assurance that the investment objective of the scheme will be achieved and the scheme does not assure or guarantee any returns.
+
+SCHEME_TYPE:
+An open-ended dynamic equity scheme investing across large cap, mid cap and small cap stocks.
+
+DATE_OF_ALLOTMENT: May 24, 2013
+[END]
+
+
+SECTION: AUM_DETAILS
+SCHEME: Parag Parikh Flexi Cap Fund (PPFCF)
+
+AUM_AS_ON_JAN_31_2026: ? 1,33,969.81 Crores
+AVERAGE_AUM_FOR_MONTH: ? 1,33,372.11 Crores
+[END]
+
+
+SECTION: NAV_DETAILS
+SCHEME: Parag Parikh Flexi Cap Fund (PPFCF)
+NAV_DATE: January 31, 2026
+
+REGULAR_PLAN_GROWTH: 85.5198
+DIRECT_PLAN_GROWTH: 93.5212
+
+REGULAR_PLAN_MONTHLY_IDCW: 85.5198
+DIRECT_PLAN_MONTHLY_IDCW: 93.5212
+[END]
+
+
+SECTION: EXPENSE_RATIO
+SCHEME: Parag Parikh Flexi Cap Fund (PPFCF)
+
+REGULAR_PLAN_EXPENSE_RATIO: 1.28%
+DIRECT_PLAN_EXPENSE_RATIO: 0.63%
+
+NOTE:
+Including additional expenses and GST on management fees. Total Expense Ratio is as on the last business day of the month.
+[END]
+
+
+SECTION: BENCHMARK_INDICES
+SCHEME: Parag Parikh Flexi Cap Fund (PPFCF)
+
+PRIMARY_BENCHMARK: NIFTY 500 (TRI)
+ADDITIONAL_BENCHMARK: NIFTY 50 (TRI)
+[END]
+
+
+SECTION: MINIMUM_INVESTMENT
+SCHEME: Parag Parikh Flexi Cap Fund (PPFCF)
+
+NEW_PURCHASE_MINIMUM: ? 1,000
+ADDITIONAL_PURCHASE_MINIMUM: ? 1,000
+
+SIP_MINIMUM:
+MONTHLY_SIP: ? 1,000
+QUARTERLY_SIP: ? 3,000
+[END]
+
+
+SECTION: LOAD_STRUCTURE
+SCHEME: Parag Parikh Flexi Cap Fund (PPFCF)
+
+ENTRY_LOAD: Not Applicable
+
+EXIT_LOAD_POLICY:
+
+10_PERCENT_REDEMPTION_LIMIT:
+10% of units may be redeemed without exit load from the date of allotment.
+
+EXIT_LOAD_RULES:
+2.00% if redeemed on or before 365 days from allotment.
+1.00% if redeemed after 365 days but on or before 730 days.
+0% if redeemed after 730 days.
+
+SWITCH_POLICY:
+No exit load charged on switch transactions between Regular Plan and Direct Plan.
+
+EFFECTIVE_DATE:
+Exit load structure applicable for investments with effect from 15 November 2021.
+
+NOTE:
+Any exit load charged (net of GST, if applicable) will be credited back to the scheme.
+[END]
+
+
+SECTION: INDUSTRY_ALLOCATION
+SCHEME: Parag Parikh Flexi Cap Fund (PPFCF)
+
+BANKS: 20.18%
+DEBT_AND_MONEY_MARKET_INSTRUMENTS: 13.76%
+COMPUTER_SOFTWARE: 9.47%
+IT_SOFTWARE: 6.96%
+AUTOMOBILES: 6.61%
+POWER: 6.00%
+ARBITRAGE_SPECIAL_SITUATION: 5.62%
+CONSUMABLE_FUELS: 5.26%
+CASH_AND_CASH_EQUIVALENT: 5.07%
+DIVERSIFIED_FMCG: 5.05%
+FINANCE: 4.90%
+PHARMACEUTICALS_AND_BIOTECHNOLOGY: 3.77%
+CATALOG_SPECIALTY_DISTRIBUTION: 2.27%
+REALTY: 1.33%
+CAPITAL_MARKETS: 1.27%
+FOOD_PRODUCTS: 1.25%
+AUTO_COMPONENTS: 0.73%
+HEALTHCARE_SERVICES: 0.26%
+TRANSPORT_SERVICES: 0.20%
+TELECOM_SERVICES: 0.02%
+COMMERCIAL_SERVICES_AND_SUPPLIES: 0.01%
+INDUSTRIAL_PRODUCTS: 0.01%
+[END]
+
+
+SECTION: PERFORMANCE_SINCE_INCEPTION
+SCHEME: Parag Parikh Flexi Cap Fund (PPFCF)
+
+PERIOD: Since Inception (May 2013 - Jan 2026)
+
+PPFCF_REGULAR_CAGR: 18.42%
+PPFCF_DIRECT_CAGR: 19.25%
+NIFTY_500_TRI: 14.65%
+NIFTY_50_TRI: 13.42%
+
+GRAPH_DESCRIPTION:
+Represents growth of ?100 invested since May 2013 until January 2026. PPFCF Direct shows highest cumulative growth followed by PPFCF Regular. Benchmark indices show comparatively lower growth.
+[END]
+
+
+SECTION: PERFORMANCE_1_YEAR
+SCHEME: Parag Parikh Flexi Cap Fund (PPFCF)
+
+PERIOD: Jan 31 2025 - Jan 30 2026
+
+PPFCF_REGULAR_RETURN: 6.28%
+PPFCF_DIRECT_RETURN: 6.98%
+NIFTY_500_RETURN: 8.00%
+NIFTY_50_RETURN: 9.00%
+
+GRAPH_DESCRIPTION:
+Value of ?100 invested in the scheme and benchmark indices for the one-year period. Benchmark indices outperformed the scheme during this time period.
+
+SOURCE: Internal Sources
+[END]
+
+
+SECTION: QUANTITATIVE_INDICATORS
+SCHEME: Parag Parikh Flexi Cap Fund (PPFCF)
+
+BETA: 0.59
+STANDARD_DEVIATION: 8.28%
+SHARPE_RATIO: 1.67
+
+PORTFOLIO_TURNOVER_EXCL_ARBITRAGE: 13.94%
+PORTFOLIO_TURNOVER_INCL_ARBITRAGE: 43.95%
+
+NOTES:
+Figures are annualised.
+
+RISK_FREE_RATE_ASSUMED:
+5.53% (FBIL Overnight MIBOR as on January 31, 2026)
+
+FOREIGN_INVESTMENT_NOTE:
+Fresh investment in foreign securities was temporarily suspended from February 2, 2022. SEBI later permitted AMCs to resume investments within the overseas investment limit available as of February 1, 2022.
+[END]
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: nan
+
+INSTRUMENT: Total Number of contracts entered into ISIN: 65698 QUANTITY:
+nan MARKET_VALUE_LAKHS: nan lakhs ALLOCATION_DECIMAL: nan percent of net
+assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: nan
+
+INSTRUMENT: Gross Notional Value of contracts entered into Rs. ISIN:
+42802124750 QUANTITY: nan MARKET_VALUE_LAKHS: nan lakhs
+ALLOCATION_DECIMAL: nan percent of net assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: nan
+
+INSTRUMENT: Net Profit/Loss value on all contracts (treat premium paid
+as loss) Rs. ISIN: 114676300.56999998 QUANTITY: nan MARKET_VALUE_LAKHS:
+nan lakhs ALLOCATION_DECIMAL: nan percent of net assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: nan
+
+INSTRUMENT: Date ISIN: Scheme QUANTITY: Benchmark MARKET_VALUE_LAKHS:
+Index lakhs ALLOCATION_DECIMAL: Value of Investment of Rs. 10,000/-
+percent of net assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: PPFCF (Direct Plan)
+
+INSTRUMENT: nan ISIN: PPFCF QUANTITY: Nifty 500 (TRI)
+MARKET_VALUE_LAKHS: Nifty 50 (TRI) lakhs ALLOCATION_DECIMAL: PPFCF
+percent of net assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: 0.1925438530519148
+
+INSTRUMENT: Since Inception (24 May, 2013) ISIN: 0.18417212350290835
+QUANTITY: 0.1465174551083417 MARKET_VALUE_LAKHS: 0.13421995700222822
+lakhs ALLOCATION_DECIMAL: 85519.8 percent of net assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: 0.06980726354283306
+
+INSTRUMENT: January 31, 2025 to January 30, 2026 (Last 1 Year) ISIN:
+0.0628414758113165 QUANTITY: 0.08000843625062704 MARKET_VALUE_LAKHS:
+0.09000013941448382 lakhs ALLOCATION_DECIMAL: 10626.64022426339 percent
+of net assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: 0.21634069429593916
+
+INSTRUMENT: January 31, 2023 to January 30, 2026 (Last 3 Years) ISIN:
+0.2077076883259401 QUANTITY: 0.16722434281537013 MARKET_VALUE_LAKHS:
+0.14083797053523628 lakhs ALLOCATION_DECIMAL: 17615.11541923537 percent
+of net assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: 0.2005706443815145
+
+INSTRUMENT: January 29, 2021 to January 30, 2026 (Last 5 Years) ISIN:
+0.1906629791844736 QUANTITY: 0.16515845187946754 MARKET_VALUE_LAKHS:
+0.14522432543752006 lakhs ALLOCATION_DECIMAL: 23952.979004683053 percent
+of net assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: 0.18855472291144504
+
+INSTRUMENT: January 29, 2016 to January 30, 2026 (Last 10 Years) ISIN:
+0.17952828855312464 QUANTITY: 0.15052192606422943 MARKET_VALUE_LAKHS:
+0.1422874118893831 lakhs ALLOCATION_DECIMAL: 52223.918512909455 percent
+of net assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: January 31, 2025 to January 30, 2026
+(Last 1 Year)
+
+INSTRUMENT: nan ISIN: Since Inception (24 May, 2013) QUANTITY: January
+31, 2023 to January 30, 2026 (Last 3 Years) MARKET_VALUE_LAKHS: January
+29, 2021 to January 30, 2026 (Last 5 Years) lakhs ALLOCATION_DECIMAL:
+January 29, 2016 to January 30, 2026 (Last 10 Years) percent of net
+assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: 120000
+
+INSTRUMENT: Total Amount Invested ISIN: 1530000 QUANTITY: 360000
+MARKET_VALUE_LAKHS: 600000 lakhs ALLOCATION_DECIMAL: 1200000 percent of
+net assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: 123839.611492272
+
+INSTRUMENT: Market value of Investment ISIN: 5310214.90290055 QUANTITY:
+445524.225379127 MARKET_VALUE_LAKHS: 895892.113464079 lakhs
+ALLOCATION_DECIMAL: 3182054.21203032 percent of net assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: 5.9998785849352
+
+INSTRUMENT: Returns (Annualised) (%) ISIN: 18.0405078401731 QUANTITY:
+14.3501245226416 MARKET_VALUE_LAKHS: 16.040738440196 lakhs
+ALLOCATION_DECIMAL: 18.5360174586076 percent of net assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: 5.77748229455702
+
+INSTRUMENT: Nifty 500 (TRI) Returns (Annualised) (%) ISIN:
+14.4516631167576 QUANTITY: 11.0766749437084 MARKET_VALUE_LAKHS:
+13.0125522257109 lakhs ALLOCATION_DECIMAL: 14.7783808027252 percent of
+net assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: 6.98876314516356
+
+INSTRUMENT: Nifty 50 (TRI) Returns (Annualised) (%) ISIN:
+13.3608649634661 QUANTITY: 10.3718278844579 MARKET_VALUE_LAKHS:
+11.6536629545031 lakhs ALLOCATION_DECIMAL: 13.7666337921148 percent of
+net assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: January 31, 2025 to January 30, 2026
+(Last 1 Year)
+
+INSTRUMENT: nan ISIN: Since Inception (24 May, 2013) QUANTITY: January
+31, 2023 to January 30, 2026 (Last 3 Years) MARKET_VALUE_LAKHS: January
+29, 2021 to January 30, 2026 (Last 5 Years) lakhs ALLOCATION_DECIMAL:
+January 29, 2016 to January 30, 2026 (Last 10 Years) percent of net
+assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: 120000
+
+INSTRUMENT: Total Amount Invested ISIN: 1530000 QUANTITY: 360000
+MARKET_VALUE_LAKHS: 600000 lakhs ALLOCATION_DECIMAL: 1200000 percent of
+net assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: 124280.318702245
+
+INSTRUMENT: Market value of Investment ISIN: 5665541.29998314 QUANTITY:
+450753.866475102 MARKET_VALUE_LAKHS: 915823.91395582 lakhs
+ALLOCATION_DECIMAL: 3350328.62591053 percent of net assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: 6.69535555262312
+
+INSTRUMENT: Returns (Annualised) (%) ISIN: 18.9375218267856 QUANTITY:
+15.1655245034592 MARKET_VALUE_LAKHS: 16.9383498426988 lakhs
+ALLOCATION_DECIMAL: 19.490449831557 percent of net assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: 5.77748229455702
+
+INSTRUMENT: Nifty 500 (TRI) Returns (Annualised) (%) ISIN:
+14.4516631167576 QUANTITY: 11.0766749437084 MARKET_VALUE_LAKHS:
+13.0125522257109 lakhs ALLOCATION_DECIMAL: 14.7783808027252 percent of
+net assets [END]
+
+SECTION: PORTFOLIO [INSTRUMENT] SCHEME: Parag Parikh Flexi Cap Fund
+REPORT_DATE: 2026-01-31 CATEGORY: 6.98876314516356
+
+INSTRUMENT: Nifty 50 (TRI) Returns (Annualised) (%) ISIN:
+13.3608649634661 QUANTITY: 10.3718278844579 MARKET_VALUE_LAKHS:
+11.6536629545031 lakhs ALLOCATION_DECIMAL: 13.7666337921148 percent of
+net assets [END]
+
+SECTION: QUANTITATIVE_INDICATORS
+SCHEME: Parag Parikh Flexi Cap Fund
+AS_ON: January 31, 2026
+
+STANDARD_DEVIATION: 8.28%
+STANDARD_DEVIATION_BENCHMARK: 12.89%
+SHARPE_RATIO: 1.67
+BETA: 0.59
+INFORMATION_RATIO: 0.47
+TREYNOR_RATIO: 0.24
+VALUE_AT_RISK_VAR: -2.10%
+RISK_FREE_RATE_OF_RETURN_FIMMDA_MIBOR: 5.53%
+[END]
+
+
+SECTION: DEBT_QUANTITATIVE_INDICATORS
+AS_ON: January 31, 2026
+
+MACAULAY_DURATION_YEARS: 0.3824
+[END]
+
+
+SECTION: INVESTOR_SUITABILITY
+SCHEME: Parag Parikh Flexi Cap Fund
+
+This product is suitable for investors who are seeking:
+
+- To generate long-term capital growth from an actively managed portfolio primarily of equity and equity related securities.
+- The scheme shall invest in Indian equities, foreign equities and related instruments and debt securities.
+- Investors should consult their financial advisors if they are not clear about whether the product is suitable for them.
+[END]
+
+
+SECTION: RISKOMETER
+SCHEME: Parag Parikh Flexi Cap Fund
+
+SCHEME_RISK_LEVEL: Very High Risk
+BENCHMARK_NAME: Nifty 500 TRI
+BENCHMARK_RISK_LEVEL: Very High Risk
+RISKOMETER_DESCRIPTION: The risk of the scheme is very high risk. The risk of the benchmark is very high risk.
+[END]
